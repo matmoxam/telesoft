@@ -1,2 +1,1 @@
-# telesoft
-For testing purposes wtih telesoft
+For testing purposes
